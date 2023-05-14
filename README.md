@@ -1,2 +1,3 @@
-# fcc-data-analysis
-Notebooks created for the Data Analysis Course on freeCodeCamp
+# Free Code Camp Data Analysis
+
+**This repository contains the exercises for the Data Analysis with Python course on Free Code Camp**
